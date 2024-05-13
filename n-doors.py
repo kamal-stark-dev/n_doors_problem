@@ -15,6 +15,6 @@ def n_doors(n):
 
 n = 10
 doors, num_open_doors, open_doors = n_doors(n)
-print(f"Number of doors: {n}")
+print(f"Total number of doors: {n}")
 print(f"Number of open doors: {num_open_doors}")
 print(f"Open doors: {open_doors}")
